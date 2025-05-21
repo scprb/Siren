@@ -1,4 +1,5 @@
 name = "siren"
+custom_domain = true
 main = "build/worker/shim.mjs"
 compatibility_date = "2024-05-23"
 minify = true
